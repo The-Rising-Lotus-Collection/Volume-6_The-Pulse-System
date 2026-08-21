@@ -1,2 +1,1 @@
-# Volume-6_The-Pulse-System
-Volume 6 of the Rising Lotus Collection: A phase-unified scalar interstellar communication network platform utilizing evanescent waveguides and tri-state phase data tensors.
+Volume 6: The Pulse System—detailing the pre-stressed piezo-data engine, wire-free evanescent architecture, 3-6-9 encoding framework, structural zoning, crystalline lithography, quantum phase-lock visualizer, and system API register mappings—can be accessed directly in the referenced source document [1.147].
