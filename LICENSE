@@ -1,0 +1,27 @@
+=============================================================================
+🪷 THE RISING LOTUS COLLECTION — OPEN-SOURCE HARDWARE LEGAL REGISTRY
+License Taxonomy: CERN Open Hardware Licence Strongly Reciprocal v2 (CERN-OHL-S)
+Version Identifier: v2.0
+Repository Target: Volume 6 — The Pulse System Scalar Interstellar Communication Link
+=============================================================================
+
+Copyright (c) 2026 The Rising Lotus Consortium / Tylerems-Grail.
+
+This documentation and design framework describes open hardware and is 
+licensed under the terms of the CERN Open Hardware Licence Strongly Reciprocal 
+v2 (CERN-OHL-S v2). 
+
+You may redistribute and modify this documentation and design framework under 
+the terms of the CERN-OHL-S v2 as published by CERN. Any derivative works, 
+physical fabrications, or geometric modifications built from this stack must 
+maintain complete open-source reciprocity under these same terms.
+
+THIS DOCUMENTATION IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
+AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
+IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE 
+DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE 
+FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL 
+DAMAGES.
+
+For the full legal text of the CERN-OHL-S v2 license framework, please refer 
+to the official registry at: https://ohwr.org
